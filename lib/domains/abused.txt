@@ -43,7 +43,6 @@ alum.us.es
 alum.utoronto.ca
 alumno.buap.mx
 alumno.uaemex.mx
-alumno.udb.edu.sv
 alumno.udg.mx
 alumno.ujat.mx
 alumno.utesa.edu
@@ -559,7 +558,6 @@ mgt.sjp.ac.lk
 mhs.its.ac.id
 mhzayt.online
 mi.unc.edu.ar
-miamioh.edu
 miitt.space
 mined.edu.sv
 miniauniv.edu.eg
@@ -782,7 +780,6 @@ rmuti.ac.th
 rmutl.ac.th
 rmutr.ac.th
 rmutto.ac.th
-rochester.edu
 rocks
 roxbury.edu
 rrlc.tu.edu.np
@@ -1298,3 +1295,8 @@ mnmjec.ac.in
 uniroma1.it
 aluno.uece.br
 economicas.uba.ar
+uma.es
+niu.edu.tw
+mu.edu.eg
+alu.uma.es
+helwan.edu.eg
